@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ExamPic Pro",
+  "description": "Professional tool to convert photos and signatures for government exam applications (UPSC, SSC, Banking, etc.) with AI-powered quality checks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
